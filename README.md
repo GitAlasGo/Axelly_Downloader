@@ -4,6 +4,6 @@ Run this command to install everything.
 ```
 pkg install axel -y && cd ~ && axel -n 10 -o $PREFIX/tmp https://raw.githubusercontent.com/GitAlasGo/Alabanta_Downloader/refs/heads/main/install/install.sh && bash $PREFIX/tmp/install.sh
 ```
-Share the link to the file you want to download over to termux to download it.
+You need the url of the file you want to download, share it to termux to download it.
 
 This script uses axel to download the files.
