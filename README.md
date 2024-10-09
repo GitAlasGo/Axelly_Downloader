@@ -6,7 +6,7 @@ cd ~ && git clone https://github.com/GitAlasGo/Axelly_Downloader.git && ~/Axelly
 ```
 You need the url of the file you want to download, share it to termux to download it.
 
-This script uses axel to download the files.
+This script uses aria2c to download the files.
 
 The default path where files gets downloaded is in /sdcard/download.
 
