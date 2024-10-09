@@ -2,8 +2,7 @@
 source ~/Axelly_Downloader/Script/Axelly_Downloader_Settings
 echo "threads set to $threads"
 echo
-echo "file name: $(sed -r 's#.*/##' <<< $1)"
-read -p 'name: ' name
+read -e -p "file name: " -i "$(sed -r 's#.*/##' <<< $1)" name
 read -p 'thread: ' thread
 
 [[ $thread =~ ^[0-9]+$ ]] && threads=$thread || echo "Using Default threads"
