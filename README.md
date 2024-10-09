@@ -1,4 +1,4 @@
-Run this command to install everything
+Run this command to install everything.
 ```
 pkg install wget -y && cd ~ && wget https://raw.githubusercontent.com/GitAlasGo/Alabanta_Downloader/refs/heads/main/install/install.sh && bash install.sh
 ```
