@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-source ~/Alabanta_Downloader_Settings
+source ~/Alabanta_Downloader/Alabanta_Downloader_Settings
 echo "Default: echo threads: $threads"
 echo
 echo "file name: $(sed -r 's#.*/##' <<< $1)"
