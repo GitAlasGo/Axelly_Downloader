@@ -2,7 +2,7 @@
 
 Run this command to install everything.
 ```
-cd ~ && git clone https://github.com/GitAlasGo/Axelly_Downloader.git && bash ~/Axelly_Downloader/install/install.sh
+cd ~ && git clone https://github.com/GitAlasGo/Axelly_Downloader.git && ~/Axelly_Downloader/install/install.sh
 ```
 You need the url of the file you want to download, share it to termux to download it.
 
