@@ -1,4 +1,4 @@
-# Run this at your own risk, because the code is badly written.
+# If you use this, you agree that I'm not responsible for anything.
 
 Run this command to install everything.
 ```
