@@ -2,6 +2,7 @@
 cd ~
 pkg install wget -y
 rm -rf ~/Alabanta_Downloader
+rm -rf $PREFIX/tmp/install.sh
 mkdir -p ~/Alabanta_Downloader
 cd ~/Alabanta_Downloader
 wget https://raw.githubusercontent.com/GitAlasGo/Alabanta_Downloader/refs/heads/main/Script/{Alabanta_Downloader.sh,Alabanta_Downloader_Settings}
