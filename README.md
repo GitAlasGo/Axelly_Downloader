@@ -10,4 +10,4 @@ This script uses axel to download the files.
 
 The default path where files gets downloaded is in /sdcard/download.
 
-So you need to grant: termux-setup-storage, or you can change this path in the "Alabanta_Downloader_Settings" file.
+So you need to grant: termux-setup-storage, or you can change this path in the "Axelly_Downloader_Settings" file.
