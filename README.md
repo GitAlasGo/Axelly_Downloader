@@ -8,4 +8,6 @@ You need the url of the file you want to download, share it to termux to downloa
 
 This script uses axel to download the files.
 
-The default path is /sdcard/download, so you need to grant termux-setup-storage or you can change this path in the "Alabanta_Downloader_Settings" file.
+The default path where files gets downloaded in is /sdcard/download.
+
+So you need to grant: termux-setup-storage, or you can change this path in the "Alabanta_Downloader_Settings" file.
