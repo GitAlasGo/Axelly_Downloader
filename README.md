@@ -1,4 +1,4 @@
-Run this at your own risk because the code is badly written.
+#Run this at your own risk because the code is badly written.
 
 Run this command to install everything.
 ```
